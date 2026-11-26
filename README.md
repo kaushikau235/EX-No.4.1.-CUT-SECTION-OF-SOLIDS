@@ -1,5 +1,5 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE:
+## DATE:22-10-2026
 
 ## AIM
 To create the solid model from given drawing and section the solid model
@@ -11,36 +11,23 @@ To create the solid model from given drawing and section the solid model
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198825274-c6a8d3ee-fb19-4641-b915-8d2e000c40a8.png)
-
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198825282-0d3de4b8-b6d9-446a-ae2a-461955057399.png)
-
-5.	Use inspect feature to measure the dimensions of sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198825301-194365b4-69d2-42ad-8545-a68d3ca1f442.png)
-
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198825314-b90f6aba-da26-4f0d-8d61-a03e8ad0d765.png)
-
-7.Use extrude option to convert 3D model from sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198825328-205fac21-1322-4d67-894b-6fd92e454e26.png)
-
-8.Use revolve option to convert 2D to 3D.
-
-![image](https://user-images.githubusercontent.com/113594316/198825337-455049de-f053-48b8-9dd0-ebeb189c0dde.png)
-
-## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
+1. Open Autodesk 360 and select a new file and then select the icon.
+2. Take the top view and draw the circle at diameter of 20 mm, 30 mm, 50 mm at the center.
+3. At the distance of 35 mm from the center draw a circle of diameter 12 mm and 30 mm.
+4. Connect the top and bottom of the circle of 30 mm and 50 mm with the lines
+5. Extrude the 50 mm diameter circle at 38 mm, the 30 mm diameter circle at 32 mm.
+6. Select extrude and click the circle of 30 mm and the remaining spaces and extrude at 10 mm.
+7. Select left view at the distance of 26 mm draw a circle of diameter of 6 mm and extrude it and use cut option.
+8. After finishing the sketch, switch to drawing mode to plot the sketch in ISO standard.
+9. The finished model will be like this:
 
 ## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/8c029052-2eae-43d1-88e5-63b36d0b880e" />
+
+## SKETCH:
+
+<img width="1226" height="864" alt="image_391e7464" src="https://github.com/user-attachments/assets/7b430304-29b0-402f-9132-7681a275a482" />
+
 
 ## RESULT:
 
